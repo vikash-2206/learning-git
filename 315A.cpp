@@ -1,4 +1,4 @@
-//code by vikash
+//code by vikash choudhary
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
