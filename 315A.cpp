@@ -11,6 +11,7 @@ int main(){
 	memset(ans,0,sizeof(ans));
 	for (int i = 0; i < n; ++i)
 	{
+
 		//hello
 		cin>>a[i];
 		cin>>b[i];
