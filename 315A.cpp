@@ -12,7 +12,6 @@ int main(){
 	for (int i = 0; i < n; ++i)
 	{
 
-		//hello
 		cin>>a[i];
 		cin>>b[i];
 		if(a[i]!=b[i])
