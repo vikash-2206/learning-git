@@ -6,7 +6,7 @@ int main(){
 
 	int n;
 	cin>>n;
-	
+	//hey
 	int a[n],b[n],ans[1001];
 	memset(ans,0,sizeof(ans));
 	for (int i = 0; i < n; ++i)
