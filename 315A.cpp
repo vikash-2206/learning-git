@@ -11,7 +11,7 @@ int main(){
 	memset(ans,0,sizeof(ans));
 	for (int i = 0; i < n; ++i)
 	{
-		
+		//hey
 		cin>>a[i];
 		cin>>b[i];
 		if(a[i]!=b[i])
